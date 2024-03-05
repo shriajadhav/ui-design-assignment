@@ -1,0 +1,125 @@
+body { 
+  background-color: #afe9ff; 
+  font-family: Arial, Helvetica, sans-serif
+}
+.orange{
+  color: #e2733f;
+}
+.blue{
+  color: #324d5d;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+.card{
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+}
+.col {
+  width: 40%;
+}
+.fcfbox{
+  height: 8rem;
+  border-top-left-radius: 30px;
+  background-color: #fd5f16;
+}
+.fcsbox{
+  height: 8rem;
+  background-color: #2a5b78;
+}
+.scfbox{
+  height: 16rem;
+  background-color: #ddd23e;
+}
+.fctbox{
+  height: 16rem;
+  background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/1848751/Screen%20Shot%202018-04-27%20at%2011.51.55%20AM.png);
+  background-size: cover;
+}
+.fcfrbox{
+  height: 8rem;
+  background-color:#ddd23e;
+}
+.fcffbox{
+  height: 8rem;
+  background-color:#fd5f16;
+}
+.ssbox{
+  height: 8rem;
+  background-color:#fd5f16;
+}
+.stbox{
+  height: 24rem;
+  background: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/1848751/Screen%20Shot%202018-04-27%20at%2011.52.43%20AM.png');
+  background-size: cover;
+}
+.fcsxbox{
+  height: 8rem;
+  background-color:#2a5b78;
+}
+.stfrbox{
+  height: 8rem;
+  background-color: #ddd23e;
+}
+
+
+/* //Defining Circles */
+.fcfcircle{
+  height: 13rem;
+  width: 13rem;
+  transform: translate(11%, -50%);
+  border-radius: 50%;
+  background-color: #fd5f16;
+  position: absolute;
+}
+.scfcircle{
+  height: 13rem;
+  width: 13rem;
+  transform: translate(11%, -40%);
+  border-radius: 50%;
+  background-color: #ddd23e;
+  position: absolute;
+}
+.fcscircle{
+  height: 13rem;
+  width: 13rem;
+  transform: translate(11%, -45%);
+  border-radius: 50%;
+  background-color: #fd5f16;
+  position: absolute;
+}
+.fcdescbox{
+  display: flex;
+  flex-direction: column;
+  height: 8rem;
+  background-color: white;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+.fcdescbox span{
+  font-size: 33px;
+  font-weight: 700;
+}
+.scdescbox{
+  display: flex;
+  flex-direction: column;
+  height: 8rem;
+  background-color: white;
+  padding-top: 20px;
+  padding-left: 30px;
+  gap: 0px;
+  border-bottom-right-radius: 15px;
+}
+.scdescbox p{
+  color: black;
+  font-size: 16px;
+  font-weight: 600;
+  margin: 0px !important;
+  margin-block-start: 0px !important;
+  margin-block-end: 0px !important;
+}
