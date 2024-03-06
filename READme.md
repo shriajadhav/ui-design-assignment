@@ -1,19 +1,21 @@
-Code 1ST ASSIGNMENT\
+## Code 1ST ASSIGNMENT
 \
 First poster [index.html](https://github.com/shriajadhav/ui-design-assignment/blob/main/Assignment%201/Poster1/index.html)\
-CSS Code for it - [style.css](https://github.com/shriajadhav/ui-design-assignment/blob/main/Assignment%201/Poster1/style.css)
+CSS Code for it - [style.css](https://github.com/shriajadhav/ui-design-assignment/blob/main/Assignment%201/Poster1/style.css)\
+\
+Second poster [index.html](https://github.com/shriajadhav/ui-design-assignment/blob/main/Assignment%201/Poster2/index.html)\
+CSS Code: [style.css](https://github.com/shriajadhav/ui-design-assignment/blob/main/Assignment%201/Poster2/style.css)\
+\
+Third poster [index.html](https://github.com/shriajadhav/ui-design-assignment/blob/main/Assignment%201/Poster3/index.html)\
+CSS Code: [style.css](https://github.com/shriajadhav/ui-design-assignment/blob/main/Assignment%201/Poster3/style.css)
 
-Second poster file:///Users/shriajadhav/Desktop/UI%20Design%20Assignment/Assignment%201/Poster2/index.html 
-CSS Code for it- file:///Users/shriajadhav/Desktop/UI%20Design%20Assignment/Assignment%201/Poster2/style.css
+## Code 2nd assignment
+\
+[index.html](https://github.com/shriajadhav/ui-design-assignment/blob/main/Assignment%202/index.html)\
+CSS Code: [style.css](https://github.com/shriajadhav/ui-design-assignment/blob/main/Assignment%202/style.css)\ 
 
-Third poster file:///Users/shriajadhav/Desktop/UI%20Design%20Assignment/Assignment%201/Poster3/index.html 
-CSS Code for it -file:///Users/shriajadhav/Desktop/UI%20Design%20Assignment/Assignment%201/Poster3/style.css 
-
-Code 2nd assignment file:///Users/shriajadhav/Desktop/UI%20Design%20Assignment/Assignment%202/index.html
-Code for it- file:///Users/shriajadhav/Desktop/UI%20Design%20Assignment/Assignment%202/style.css 
-
-Code assignment 3 file:///Users/shriajadhav/Desktop/UI%20Design%20Assignment/Assignment%203/index.html
-Code -file:///Users/shriajadhav/Desktop/UI%20Design%20Assignment/Assignment%203/style.css 
+Code assignment 3 https://github.com/shriajadhav/ui-design-assignment/blob/main/Assignment%203/index.html
+Code -https://github.com/shriajadhav/ui-design-assignment/blob/main/Assignment%203/style.css 
 
 Assignment 4-
 Part one -Philips collection- pdf - find below
