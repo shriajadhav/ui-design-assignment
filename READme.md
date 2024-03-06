@@ -1,6 +1,7 @@
-Code 1ST ASSIGNMENT
-First poster file:///Users/shriajadhav/Desktop/UI%20Design%20Assignment/Assignment%201/Poster1/index.html 
-CSS Code for it -file:///Users/shriajadhav/Desktop/UI%20Design%20Assignment/Assignment%201/Poster1/style.css 
+Code 1ST ASSIGNMENT\
+\
+First poster [index.html](https://github.com/shriajadhav/ui-design-assignment/blob/main/Assignment%201/Poster1/index.html)\
+CSS Code for it - [style.css](https://github.com/shriajadhav/ui-design-assignment/blob/main/Assignment%201/Poster1/style.css)
 
 Second poster file:///Users/shriajadhav/Desktop/UI%20Design%20Assignment/Assignment%201/Poster2/index.html 
 CSS Code for it- file:///Users/shriajadhav/Desktop/UI%20Design%20Assignment/Assignment%201/Poster2/style.css
