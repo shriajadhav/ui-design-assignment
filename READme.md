@@ -2,6 +2,7 @@
 \
 First poster [index.html](https://github.com/shriajadhav/ui-design-assignment/blob/main/Assignment%201/Poster1/index.html)\
 CSS Code for it - [style.css](https://github.com/shriajadhav/ui-design-assignment/blob/main/Assignment%201/Poster1/style.css)\
+Live Preview - [](https://65e9f41ff1ae543ca843253e--ui-design-900.netlify.app/assignment%201/poster1/)
 \
 Second poster [index.html](https://github.com/shriajadhav/ui-design-assignment/blob/main/Assignment%201/Poster2/index.html)\
 CSS Code: [style.css](https://github.com/shriajadhav/ui-design-assignment/blob/main/Assignment%201/Poster2/style.css)\
